@@ -1,0 +1,4 @@
+/*table=servers	count=2	columns=17*/
+_id	title	host	port	resolution	protocol	user	pwd	sound	card	path	int1	pre1	pre2	pre3	pre4	int2	
+1	@172.19.200.32	172.19.200.32	3389	320x480	RDP			6	1033		16					1	
+2	@172.19.200.31	172.19.200.31	3389	320x480	RDP			6	1033		16					1	

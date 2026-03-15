@@ -1,0 +1,4 @@
+/*table=options|count=2|columns=3*/
+_id|key|value|
+1|version|449|
+2|shorcut|CONTROL+ALT+DELETE	CONTROL+ESCAPE	ALT+TAB	ALT+F4	ESCAPE	PRINTSCREEN	F1|
